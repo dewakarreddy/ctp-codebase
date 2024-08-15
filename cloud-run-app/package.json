@@ -1,0 +1,13 @@
+{
+    "name": "cloud-run-app",
+    "version": "1.0.0",
+    "description": "Simple app for Cloud Run",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
